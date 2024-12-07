@@ -1,3 +1,9 @@
+# project
+rl_agents/trained_agents
+inputs/my_custom*
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
